@@ -171,7 +171,7 @@ h1,h2,h3,h4,h5
 /* start home */       
 #home
 	{
-        background: url('../images/home-bg.jpg');
+        background: url('../images/abstract-premium-black-gold-geometric-background_1017-24783.jpg');
         background-size: cover;
         background-repeat: no-repeat;
         padding-top: 120px;
@@ -181,7 +181,7 @@ h1,h2,h3,h4,h5
 #home h1
     {
         border: 2px solid #D43F52;
-        color: #D43F52;
+        color: #ff0022;
         display: inline-block;
         letter-spacing: 6px;
         padding: 25px 35px;
